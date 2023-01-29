@@ -1,0 +1,4 @@
+/Users/jorgemartinez/Desktop/Summer22UROP/plr/build/CMakeFiles/plr.dir
+/Users/jorgemartinez/Desktop/Summer22UROP/plr/build/CMakeFiles/Polarimeter.dir
+/Users/jorgemartinez/Desktop/Summer22UROP/plr/build/CMakeFiles/edit_cache.dir
+/Users/jorgemartinez/Desktop/Summer22UROP/plr/build/CMakeFiles/rebuild_cache.dir

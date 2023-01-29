@@ -1,0 +1,7 @@
+A_0 at l=2.009322084m is 12.68378839
+
+GA = 0.6792447726 (10 million events) (0.01622% error) (~535,522 events) (~0.451638654368443% at 1 GeV) 
+
+Remove Layer 1, convert rest to galactic
+
+EM Liv
